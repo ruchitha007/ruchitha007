@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ruchithareddykudumula/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ruchitha.kudumula@email.com">
+  <a href="mailto:ruchithareddy.kudumula@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ruchitha007" target="_blank">
@@ -95,7 +95,7 @@
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruchithareddykudumula/)
-- 📬 Email: ruchitha.kudumula@email.com
+- 📬 Email: ruchithareddy.kudumula@email.com
 - 💬 Ask me about: Java, ML pipelines, AWS deployments, or full-stack app design
 
 ---
