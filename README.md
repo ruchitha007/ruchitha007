@@ -1,17 +1,23 @@
 <!-- GitHub Profile README - Ruchitha Reddy Kudumula -->
 
-<h1 align="center">Hi 👋, I'm Ruchitha Reddy Kudumula</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | Data & System Optimizer</h3>
+<h1 align="center">👋 Hi, I'm Ruchitha Reddy Kudumula</h1>
+<h3 align="center">🚀 Software Engineer | 🔍 Data Analyst | 🧠 ML Enthusiast | ☁️ Cloud Practitioner</h3>
+
+<p align="center">
+  <a href="https://github.com/ruchitha007">
+    <img src="https://komarev.com/ghpvc/?username=ruchitha007&style=flat-square&color=blue" alt="profile views" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchithareddykudumula/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ruchitha.kudumula@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ruchitha1920">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
+  <a href="https://github.com/ruchitha007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -19,51 +25,80 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Former **Software Engineer at TCS** | Master's in Computer Science (UNCC)
-- 🌱 Currently learning **AWS, Next.js, and Machine Learning**
-- 💡 Passionate about **building scalable applications** and **solving real-world problems**
-- 🛠️ Open to collaborating on **full-stack, backend, and data-driven** projects
+💻 I'm a **Software Engineer** with a passion for:
+- 🔐 Building secure, scalable full-stack apps
+- 📊 Analyzing real-world datasets and delivering actionable insights
+- 🧠 Applying ML models to solve business problems
+- ☁️ Automating cloud infrastructure and CI/CD
+
+🎓 Master’s in CS from **UNC Charlotte**  
+🏢 Former **TCS Engineer** working on enterprise-grade financial apps  
+📈 Currently exploring **LLMs, prompt engineering, and real-time data pipelines**
 
 ---
 
-### 🔧 Tech Stack
+### 💻 Tech Toolbox
 
-#### Languages:
-`Java` | `Python` | `JavaScript` | `TypeScript` | `SQL`
+#### 🧰 Languages
+`Java` • `Python` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `Shell`
 
-#### Frameworks & Libraries:
-`React.js` | `Node.js` | `Spring Boot` | `Express.js` | `Hibernate`
+#### 🖼️ Frontend
+`React.js` • `HTML5` • `CSS3` • `Bootstrap` • `Tailwind`
 
-#### Databases:
-`PostgreSQL` | `MySQL` | `MongoDB` | `DynamoDB`
+#### 🧩 Backend & APIs
+`Spring Boot` • `Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Kafka`
 
-#### Cloud & DevOps:
-`AWS` (EC2, S3, RDS, Lambda) | `Docker` | `Kubernetes` | `Jenkins` | `Git` | `GitHub Actions`
+#### 🧠 Machine Learning
+`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter` • `XGBoost`
 
-#### Tools & Testing:
-`Postman` | `Selenium` | `JUnit` | `Mockito` | `Jira` | `Confluence` | `CI/CD`
+#### 📊 Data Analysis
+`Python` • `Tableau` • `Power BI` • `SQL Joins & Window Functions`  
+`EDA` • `Feature Engineering` • `Model Evaluation`
+
+#### ☁️ Cloud & DevOps
+`AWS (EC2, S3, Lambda, RDS)` • `Docker` • `Kubernetes`  
+`Jenkins` • `GitHub Actions` • `Terraform` • `Linux`
+
+#### 🧪 Testing & Tools
+`JUnit` • `Mockito` • `Postman` • `Selenium` • `Log4j` • `Splunk`
+
+#### 🗃️ Databases
+`MySQL` • `PostgreSQL` • `MongoDB` • `DynamoDB` • `Redis`
 
 ---
 
-### 📊 GitHub Stats
+### 🔍 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchitha1920&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruchitha007&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitha1920&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchitha007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitha007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📌 Featured Projects
 
-- 💼 [Portfolio Website](https://your-portfolio-link.com) *(Add this if available)*
-- 📧 Email: ruchitha.kudumula@email.com
-- 💬 Ask me about Java, Spring Boot, React, SQL optimization, or cloud architecture
+- 📷 **Photo Sharing App**: Built with React & Spring Boot, features real-time updates and user auth  
+- 💰 **Budget Monitoring System**: Java backend + Angular frontend to track and visualize expenses  
+- ✈️ **Airline Data Analysis**: Analyzed 31 years of airline trends using Tableau and Python  
+- 💬 **Twitter Sentiment Analysis**: NLP-based pipeline to detect positive/negative sentiment
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchithareddykudumula/)
+- 📬 Email: ruchitha.kudumula@email.com
+- 💬 Ask me about: Java, ML pipelines, AWS deployments, or full-stack app design
+
+---
+
+> 💡 *"Great code is like poetry — structured, meaningful, and impactful."*
 
