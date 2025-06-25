@@ -83,11 +83,17 @@
 
 ### 📌 Featured Projects
 
-- 📷 **Photo Sharing App** – React + Spring Boot app with JWT auth and real-time photo feeds  
-- 💰 **Budget Monitoring System** – Angular + Java platform for public expenditure tracking  
-- ✈️ **Airline Trends Dashboard** – 31 years of aviation data visualized using Python + Tableau  
-- 💬 **Twitter Sentiment Analysis** – ML pipeline using NLP + XGBoost for election prediction  
-- 🧠 **Suicide Trends Visualization** – D3.js dashboard using 47K+ records and map/chart animations
+📷 Photo Sharing App – React + Spring Boot app with JWT auth and real-time photo feeds
+
+💰 Budget Monitoring System – Angular + Java platform for public expenditure tracking
+
+✈️ Airline Trends Dashboard – 31 years of aviation data visualized using Python + Tableau
+
+💬 Twitter Sentiment Analysis – ML pipeline using NLP + XGBoost for election prediction
+
+🧠 Suicide Trends Visualization – D3.js dashboard using 47K+ records and map/chart animations
+
+🎬 Movie Review Sentiment Prediction – NLP-driven Python model classifying IMDb movie reviews using TF-IDF and Logistic Regression with 90%+ accuracy
 
 ---
 
