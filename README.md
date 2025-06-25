@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Ruchitha Reddy Kudumula -->
 
 <h1 align="center">👋 Hi, I'm Ruchitha Reddy Kudumula</h1>
-<h3 align="center">🚀 Software Engineer | 🔍 Data Analyst | 🧠 ML Enthusiast | ☁️ Cloud Practitioner</h3>
+<h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | ⚙️ Data Engineer | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ruchitha007">
@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruchithareddykudumula/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:ruchithareddy.kudumula@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -25,49 +22,50 @@
 
 ### 👩‍💻 About Me
 
-💻 I'm a **Software Engineer** with a passion for:
-- 🔐 Building secure, scalable full-stack apps
-- 📊 Analyzing real-world datasets and delivering actionable insights
-- 🧠 Applying ML models to solve business problems
-- ☁️ Automating cloud infrastructure and CI/CD
+🎓 M.S. in Computer Science from **UNC Charlotte**  
+🏢 Ex-TCS Software Engineer (Finance domain) | Current Developer at CGI  
+🌐 Passionate about building full-stack web apps, analyzing large-scale datasets, and engineering efficient cloud-native data solutions.
 
-🎓 Master’s in CS from **UNC Charlotte**  
-🏢 Former **TCS Engineer** working on enterprise-grade financial apps  
-📈 Currently exploring **LLMs, prompt engineering, and real-time data pipelines**
+💡 I enjoy solving real-world problems through:
+- 🔧 Scalable Microservices & APIs (Spring Boot, Node.js)
+- 📊 Data Pipelines, Warehousing, and BI Reporting
+- 🧠 ML/AI Experiments on Structured & Unstructured Data
+- ☁️ Cloud Automation & Serverless Infrastructure
 
 ---
 
-### 💻 Tech Toolbox
+### 💼 Core Skills
 
-#### 🧰 Languages
-`Java` • `Python` • `JavaScript (ES6+)` • `TypeScript` • `SQL`• `Go`  • `Shell`
+#### 💻 Languages
+`Java` • `Python` • `JavaScript` • `SQL` • `Go` • `TypeScript` • `Shell`
 
-#### 🖼️ Frontend
-`React.js` • `HTML5` • `CSS3` • `Bootstrap` • `Tailwind`
+#### 🌐 Frontend
+`React.js` • `HTML5` • `CSS3` • `Tailwind` • `Bootstrap` • `D3.js`
 
 #### 🧩 Backend & APIs
-`Spring Boot` • `Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Kafka`
+`Spring Boot` • `Node.js` • `Express.js` • `Kafka` • `REST APIs` • `JWT Auth`
 
-#### 🧠 Machine Learning
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Jupyter` • `XGBoost`
+#### 📊 Data Analytics & BI
+`SQL` • `Power BI` • `Tableau` • `Pandas` • `NumPy` • `EDA`  
+`Data Cleaning` • `Visualization` • `Window Functions` • `Pivoting`
 
-#### 📊 Data Analysis
-`Python` • `Tableau` • `Power BI` • `SQL Joins & Window Functions`  
-`EDA` • `Feature Engineering` • `Model Evaluation`
+#### ⚙️ Data Engineering
+`ETL Pipelines` • `Apache Spark` • `AWS Glue` • `AWS Lambda` • `S3` • `PostgreSQL`  
+`Data Modeling` • `Data Validation` • `Airflow` (exploring)
 
 #### ☁️ Cloud & DevOps
-`AWS (EC2, S3, Lambda, RDS)` • `Docker` • `Kubernetes`  
-`Jenkins` • `GitHub Actions` • `Terraform` • `Linux`
+`AWS (EC2, S3, Lambda, RDS)` • `Docker` • `Kubernetes` • `GitHub Actions`  
+`Jenkins` • `Terraform` • `Linux` • `CloudWatch`
 
-#### 🧪 Testing & Tools
+#### 🧠 Machine Learning
+`Scikit-learn` • `XGBoost` • `Jupyter` • `Matplotlib` • `Seaborn` • `NLP` (TF-IDF, VADER)
+
+#### 🛠️ Tools & Testing
 `JUnit` • `Mockito` • `Postman` • `Selenium` • `Log4j` • `Splunk`
-
-#### 🗃️ Databases
-`MySQL` • `PostgreSQL` • `MongoDB` • `DynamoDB` • `Redis`
 
 ---
 
-### 🔍 GitHub Highlights
+### 🌟 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruchitha007&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -85,20 +83,20 @@
 
 ### 📌 Featured Projects
 
-- 📷 **Photo Sharing App**: Built with React & Spring Boot, features real-time updates and user auth  
-- 💰 **Budget Monitoring System**: Java backend + Angular frontend to track and visualize expenses  
-- ✈️ **Airline Data Analysis**: Analyzed 31 years of airline trends using Tableau and Python  
-- 💬 **Twitter Sentiment Analysis**: NLP-based pipeline to detect positive/negative sentiment
+- 📷 **Photo Sharing App** – React + Spring Boot app with JWT auth and real-time photo feeds  
+- 💰 **Budget Monitoring System** – Angular + Java platform for public expenditure tracking  
+- ✈️ **Airline Trends Dashboard** – 31 years of aviation data visualized using Python + Tableau  
+- 💬 **Twitter Sentiment Analysis** – ML pipeline using NLP + XGBoost for election prediction  
+- 🧠 **Suicide Trends Visualization** – D3.js dashboard using 47K+ records and map/chart animations
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruchithareddykudumula/)
-- 📬 Email: ruchithareddy.kudumula@email.com
-- 💬 Ask me about: Java, ML pipelines, AWS deployments, or full-stack app design
+📧 Email: ruchithareddy.kudumula@email.com  
+💬 Ask Me About: Microservices, ETL design, SQL optimization, or cloud-native deployment
 
 ---
 
-> 💡 *"Great code is like poetry — structured, meaningful, and impactful."*
+> *“Data drives decisions. Code brings it to life.”*
 
