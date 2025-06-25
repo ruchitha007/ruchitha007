@@ -40,7 +40,7 @@
 ### 💻 Tech Toolbox
 
 #### 🧰 Languages
-`Java` • `Python` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `Shell`
+`Java` • `Python` • `JavaScript (ES6+)` • `TypeScript` • `SQL`• `Go`  • `Shell`
 
 #### 🖼️ Frontend
 `React.js` • `HTML5` • `CSS3` • `Bootstrap` • `Tailwind`
