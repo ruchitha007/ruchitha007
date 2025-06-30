@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me
 
 🎓 M.S. in Computer Science from **UNC Charlotte**  
-🏢 Ex-TCS Software Engineer (Finance domain) | Current Developer at CGI  
+🏢 Ex-TCS Software Engineer (Finance domain) 
 🌐 Passionate about building full-stack web apps, analyzing large-scale datasets, and engineering efficient cloud-native data solutions.
 
 💡 I enjoy solving real-world problems through:
