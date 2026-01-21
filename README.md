@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Ruchitha Reddy Kudumula -->
 
 <h1 align="center">👋 Hi, I'm Ruchitha Reddy Kudumula</h1>
-<h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | ⚙️ Data Engineer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">💻 </h3>
 
 <p align="center">
   <a href="https://github.com/ruchitha007">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ruchithareddy.kudumula@email.com">
+  
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ruchitha007" target="_blank">
@@ -22,8 +22,6 @@
 
 ### 👩‍💻 About Me
 
-🎓 M.S. in Computer Science from **UNC Charlotte**  
-🏢 Ex-TCS Software Engineer (Finance domain) 
 🌐 Passionate about building full-stack web apps, analyzing large-scale datasets, and engineering efficient cloud-native data solutions.
 
 💡 I enjoy solving real-world problems through:
@@ -97,12 +95,6 @@
 
 ---
 
-### 📫 Let’s Connect
-
-📧 Email: ruchithareddy.kudumula@email.com  
-💬 Ask Me About: Microservices, ETL design, SQL optimization, or cloud-native deployment
-
----
 
 > *“Data drives decisions. Code brings it to life.”*
 
